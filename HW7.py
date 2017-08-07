@@ -1,9 +1,6 @@
 from sortedcontainers import SortedDict
 
 
-print("Hello World!")
-
-
 def print_menu():
     print('1. Print Users')
     print('2. Add a User')
